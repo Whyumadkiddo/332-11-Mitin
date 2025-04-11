@@ -1,0 +1,2373 @@
+# Translation of Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-29 14:55:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release)\n"
+
+#. translators: license Section Url.
+#: com/classes/Actions.php:232 com/classes/Filters.php:338
+msgid "Follow the link"
+msgstr "Следуйте ссылке"
+
+#. translators: license Section Url.
+#: com/classes/Actions.php:232 com/classes/Filters.php:338
+msgid "to finalize the activation."
+msgstr "чтобы завершить активацию."
+
+#: com/libs/WOOSL_CodeAutoUpdate.php:179 com/libs/WOOSL_CodeAutoUpdate.php:191
+msgid "Try again"
+msgstr "Попробовать ещё раз"
+
+#: com/libs/WOOSL_CodeAutoUpdate.php:191
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Во время запроса API произошла непредвиденная ошибка HTTP."
+
+#: public/views/floatingButton.php:44
+msgid "Right Center"
+msgstr "Справа по центру"
+
+#: com/classes/Filters.php:814
+msgid "Actions"
+msgstr "Действия"
+
+#: com/helpers/ConfigDataHelper.php:577 com/helpers/ConfigDataHelper.php:1854
+msgid "States"
+msgstr "Штаты"
+
+#: public/views/conditionsView.php:23 public/views/conditionsView.php:50
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: public/views/conditionsView.php:27 public/views/conditionsView.php:54
+msgid "More Details"
+msgstr "Детали"
+
+#: public/views/subscribers.php:115
+msgid "Import Subscribers"
+msgstr "Импорт подписчиков"
+
+#: public/views/closeSettingsView.php:123
+msgid "Top"
+msgstr "Сверху"
+
+#: public/views/floatingButton.php:38
+msgid "Top Center"
+msgstr "Сверху по центру"
+
+#: public/views/floatingButton.php:37
+msgid "Top Left"
+msgstr "Сверху слева"
+
+#: public/views/floatingButton.php:39
+msgid "Top Right"
+msgstr "Сверху справа"
+
+#: public/views/subscribers.php:83
+msgid "Add New Subscribers"
+msgstr "Добавить новых подписчиков"
+
+#: com/classes/Filters.php:491 com/classes/RegisterPostType.php:399
+msgid "Advanced"
+msgstr "Расширенный"
+
+#: com/helpers/ConfigDataHelper.php:578 com/helpers/ConfigDataHelper.php:1855
+msgid "Visitor IP"
+msgstr "IP посетителя"
+
+#: public/views/closeSettingsView.php:190
+msgid "Width&nbsp;"
+msgstr "Ширина&nbsp;"
+
+#: public/views/floatingButton.php:48
+msgid "Bottom Center"
+msgstr "Снизу по центру"
+
+#: public/views/floatingButton.php:47
+msgid "Bottom Left"
+msgstr "Снизу слева"
+
+#: public/views/floatingButton.php:49
+msgid "Bottom Right"
+msgstr "Справа внизу"
+
+#: com/helpers/ConfigDataHelper.php:576 com/helpers/ConfigDataHelper.php:1853
+msgid "Cities"
+msgstr "Города"
+
+#: public/views/popupOpeningCounter.php:13
+msgid "Disable popup counting"
+msgstr "Отключить подсчет всплывающих окон"
+
+#: public/views/closeSettingsView.php:150
+msgid "Left"
+msgstr "Слева"
+
+#: com/classes/RegisterPostType.php:101
+msgid "Search"
+msgstr "Поиск"
+
+#: com/helpers/ConfigDataHelper.php:1251 com/helpers/ConfigDataHelper.php:2528
+msgid "L"
+msgstr "L"
+
+#: public/views/popupTypes.php:53
+msgid "Pro Extensions"
+msgstr "Проф расширения"
+
+#: com/helpers/ConfigDataHelper.php:567 com/helpers/ConfigDataHelper.php:1844
+msgid "Referral URL detection"
+msgstr "Обнаружение URL-адреса перехода"
+
+#: public/views/conditionsView.php:47
+msgid "If you want to unlock Advanced Targeting you need to activate this extension"
+msgstr "Если вы хотите разблокировать расширенный таргетинг, вам необходимо активировать это расширение"
+
+#: public/views/popupDesignView.php:205
+msgid "Cloud icon"
+msgstr "Иконка облака"
+
+#: public/views/popupDesignView.php:208
+msgid "Recycle Bin"
+msgstr "Очистить корзину"
+
+#: public/views/conditionsView.php:37 public/views/conditionsView.php:64
+msgid "See Less"
+msgstr "Показать меньше"
+
+#: public/views/closeSettingsView.php:296
+#: public/views/closeSettingsView.php:327
+#: public/views/closeSettingsView.php:362
+#: public/views/otherConditionsView.php:46 public/views/popupDesignView.php:96
+msgid "Unlock Option"
+msgstr "Разблокировать опцию"
+
+#: com/classes/components/Menu.php:205
+msgid "Select a Popup"
+msgstr "Выберите всплывающее окно"
+
+#: com/classes/components/Menu.php:215
+msgid "Open a popup once this item is clicked."
+msgstr "Откройте всплывающее окно после нажатия на этот элемент."
+
+#: com/classes/NotificationCenter.php:98
+msgid "Twice Daily"
+msgstr "Дважды в день"
+
+#: public/views/settings.php:100
+msgid "Disable popup analytics"
+msgstr "Отключить аналитику всплывающих окон"
+
+#: public/views/settings.php:63
+msgid "Enable DEBUG MODE"
+msgstr "Включить режим отладки"
+
+#: com/helpers/ConfigDataHelper.php:913 com/helpers/ConfigDataHelper.php:2190
+#: public/views/floatingButton.php:28
+msgid "Corner"
+msgstr "Угол"
+
+#: public/views/floatingButton.php:15
+msgid "Enable"
+msgstr "Включить"
+
+#: com/helpers/ConfigDataHelper.php:898 com/helpers/ConfigDataHelper.php:905
+#: com/helpers/ConfigDataHelper.php:2175 com/helpers/ConfigDataHelper.php:2182
+msgid "Bottom right"
+msgstr "Справа внизу"
+
+#: com/helpers/ConfigDataHelper.php:908 com/helpers/ConfigDataHelper.php:2185
+msgid "Right center"
+msgstr "Справа по центру"
+
+#: com/helpers/ConfigDataHelper.php:909 com/helpers/ConfigDataHelper.php:2186
+#: public/views/floatingButton.php:42
+msgid "Left center"
+msgstr "Слева по центру"
+
+#: public/views/floatingButton.php:26
+msgid "Style"
+msgstr "Стиль"
+
+#: public/views/floatingButton.php:35
+msgid "Position"
+msgstr "Позиция"
+
+#: public/views/floatingButton.php:54
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: com/helpers/ConfigDataHelper.php:906 com/helpers/ConfigDataHelper.php:2183
+msgid "Top center"
+msgstr "Сверху по центру"
+
+#: com/helpers/ConfigDataHelper.php:895 com/helpers/ConfigDataHelper.php:902
+#: com/helpers/ConfigDataHelper.php:2172 com/helpers/ConfigDataHelper.php:2179
+msgid "Top left"
+msgstr "Сверху слева"
+
+#: com/helpers/ConfigDataHelper.php:896 com/helpers/ConfigDataHelper.php:903
+#: com/helpers/ConfigDataHelper.php:2173 com/helpers/ConfigDataHelper.php:2180
+msgid "Top right"
+msgstr "Сверху справа"
+
+#: com/helpers/ConfigDataHelper.php:914 com/helpers/ConfigDataHelper.php:2191
+#: public/views/floatingButton.php:29
+msgid "Basic"
+msgstr "Базовый"
+
+#: com/helpers/ConfigDataHelper.php:907 com/helpers/ConfigDataHelper.php:2184
+msgid "Bottom center"
+msgstr "Снизу по центру"
+
+#: com/helpers/ConfigDataHelper.php:897 com/helpers/ConfigDataHelper.php:904
+#: com/helpers/ConfigDataHelper.php:2174 com/helpers/ConfigDataHelper.php:2181
+msgid "Bottom left"
+msgstr "Внизу слева"
+
+#: com/config/dataConfig.php:990
+msgid "Click it!"
+msgstr "Нажмите это!"
+
+#: public/views/floatingButton.php:65
+msgid "Position right"
+msgstr "Позиция справа"
+
+#: public/views/floatingButton.php:60
+msgid "Position top"
+msgstr "Позиция сверху"
+
+#: public/views/floatingButton.php:70
+msgid "Border size"
+msgstr "Размер границы"
+
+#: public/views/newsletter.php:89
+msgid "Send a Test"
+msgstr "Отправить тестовое сообщение"
+
+#: public/views/newsletter.php:34
+msgid "Test email was successfully sent"
+msgstr "Тестовое письмо успешно отправлено"
+
+#: com/classes/RegisterPostType.php:91
+msgctxt "post type general name"
+msgid "Popup Builder"
+msgstr "Popup Builder"
+
+#: com/helpers/ConfigDataHelper.php:570 com/helpers/ConfigDataHelper.php:1847
+msgid "Web Browser"
+msgstr "Веб-браузер"
+
+#: com/classes/Filters.php:180
+msgid "Rate us"
+msgstr "Оцените нас"
+
+#: com/classes/Filters.php:206
+msgid "Docs"
+msgstr "Документация"
+
+#: com/classes/Filters.php:213
+msgid "Upgrade"
+msgstr "Обновить"
+
+#: com/classes/Feedback.php:77
+msgid "Having troubles? You can always count on us. Please try to contact us via <a href=\"https://popup-builder.com/\">Live chat</a> or send a message to <a href=\"mailto:support@popup-builder.com\">support@popup-builder.com</a>"
+msgstr "Проблемы? Вы всегда можете рассчитывать на нас. Попробуйте связаться с нами через <a href=\"https://popup-builder.com/\">живой чат</a> или отправить сообщение по адресу <a href=\"mailto:support@popup-builder.com\">support@popup-builder.com</a>"
+
+#: com/classes/Feedback.php:71
+msgid "I found a better plugin"
+msgstr "Я нашел плагин лучше"
+
+#: com/classes/Feedback.php:72
+msgid "Please share which plugin"
+msgstr "Поделитесь, пожалуйста, какой плагин"
+
+#: com/classes/Feedback.php:80
+msgid "It's a temporary deactivation"
+msgstr "Это временная деактивация"
+
+#: com/classes/Feedback.php:84
+msgid "Other"
+msgstr "Другой"
+
+#: com/classes/Feedback.php:85
+msgid "Please share the reason"
+msgstr "Пожалуйста, поделитесь причиной"
+
+#: com/classes/Feedback.php:96
+msgid "Quick Feedback"
+msgstr "Быстрая обратная связь"
+
+#: com/classes/Feedback.php:133
+msgid "Submit & Deactivate"
+msgstr "Отправить и деактивировать"
+
+#: com/classes/Feedback.php:136
+msgid "Skip & Deactivate"
+msgstr "Пропустить и деактивировать"
+
+#: com/classes/Feedback.php:67
+msgid "I no longer need the plugin"
+msgstr "Плагин мне более не нужен"
+
+#: com/classes/Feedback.php:75
+msgid "I couldn't get the plugin to work"
+msgstr "Я не могу заставить плагин работать"
+
+#: com/classes/Feedback.php:109
+msgid "Please, select an option."
+msgstr "Пожалуйста, выберите вариант."
+
+#: com/helpers/AdminHelper.php:985
+msgid "Need some help?"
+msgstr "Нужна помощь?"
+
+#: com/helpers/AdminHelper.php:989
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: com/helpers/AdminHelper.php:992
+msgid "and we will not show it again!"
+msgstr "и мы больше не будем его показывать!"
+
+#: com/helpers/AdminHelper.php:992
+msgid "Bored of this?"
+msgstr "Надоело это?"
+
+#: com/helpers/AdminHelper.php:986
+msgid "Let us know what you think."
+msgstr "Поделитесь с нами вашими мыслями."
+
+#: com/helpers/AdminHelper.php:990
+msgid "LIVE chat"
+msgstr "Чат в реальном времени"
+
+#: com/helpers/AdminHelper.php:992
+msgid " Press here "
+msgstr "Нажмите здесь "
+
+#: com/helpers/AdminHelper.php:1735
+msgid "No license"
+msgstr "Нет лицензии"
+
+#: com/classes/Actions.php:736
+msgid "Once Every Week"
+msgstr "Один раз в неделю"
+
+#: public/views/settings.php:153
+msgid "Download"
+msgstr "Скачать"
+
+#: public/views/settings.php:146
+msgid "Debug tools"
+msgstr "Инструменты отладки"
+
+#: public/views/settings.php:148
+msgid "System information"
+msgstr "Системная информация"
+
+#: public/views/mainActionButtons.php:16 public/views/subscribers.php:58
+msgid "Export"
+msgstr "Экспорт"
+
+#: public/views/mainActionButtons.php:21 public/views/subscribers.php:63
+#: public/views/subscribers.php:138
+msgid "Import"
+msgstr "Импорт"
+
+#: com/classes/Filters.php:812
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: public/views/htmlCustomButtonElement.php:32
+#: public/views/options/subscription.php:226
+msgid "Title"
+msgstr "Заголовок"
+
+#: com/classes/Filters.php:803 public/views/optionsView.php:196
+#: public/views/optionsView.php:227
+msgid "Type"
+msgstr "Тип"
+
+#: com/classes/Actions.php:1480
+msgid "Popup updated."
+msgstr "Всплывающее окно обновлено."
+
+#: com/classes/Actions.php:1484
+msgid "Popup published."
+msgstr "Всплывающее окно опубликовано."
+
+#: public/views/settings.php:59
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: public/views/settings.php:142
+msgid "Save Changes"
+msgstr "Сохраните изменения"
+
+#: com/classes/dataTable/Subscribers.php:39 com/helpers/AdminHelper.php:991
+#: public/views/subscribers.php:99
+msgid "Email"
+msgstr "Email"
+
+#: public/views/htmlCustomButtonElement.php:152 public/views/optionsView.php:91
+msgid "Message"
+msgstr "Сообщение"
+
+#: com/classes/dataTable/Subscribers.php:40
+#: com/classes/dataTable/Subscribers.php:165
+msgid "Date"
+msgstr "Дата"
+
+#: com/helpers/ConfigDataHelper.php:1255 com/helpers/ConfigDataHelper.php:2532
+#: public/views/closeSettingsView.php:232
+msgid "Close"
+msgstr "Закрыть"
+
+#: com/classes/dataTable/Subscribers.php:110
+msgid "All"
+msgstr "Все"
+
+#: public/views/options/subscription.php:86
+msgid "Label"
+msgstr "Этикетка"
+
+#: com/libs/Importer.php:990
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+#: com/libs/Importer.php:1043
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#. translators: remote response code, status header description
+#: com/libs/Importer.php:1052
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер возвратил ответ об ошибке %1$d %2$s"
+
+#: com/libs/Importer.php:1059
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет неправильный размер"
+
+#: com/libs/Importer.php:1064
+msgid "Zero size file downloaded"
+msgstr "Загружен файл нулевого размера"
+
+#. translators: max size
+#: com/libs/Importer.php:1071
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком велик, ограничение %s"
+
+#: com/libs/Importer.php:1181
+msgid "Import WordPress"
+msgstr "Импорт WordPress"
+
+#. translators: new version
+#: com/libs/Importer.php:1189
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Доступна новая версия этого импортера. Пожалуйста, обновите до версии %s, чтобы обеспечить совместимость с новыми файлами экспорта."
+
+#: com/libs/Importer.php:1207
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Выберите файл WXR (.xml) для загрузки, затем нажмите «Загрузить файл и импортировать»."
+
+#: public/views/popupDesignView.php:61
+msgid "Themes"
+msgstr "Темы"
+
+#: public/views/popupDesignView.php:137 public/views/popupDesignView.php:183
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+#: public/views/popupDesignView.php:177
+msgid "Color"
+msgstr "Цвет"
+
+#: public/views/closeSettingsView.php:178
+msgid "Remove"
+msgstr "Удалить"
+
+#: public/views/popupDesignView.php:225
+msgid "Mode"
+msgstr "Режим"
+
+#: public/views/dimensionsView.php:28
+#: public/views/htmlCustomButtonElement.php:47
+#: public/views/options/subscription.php:157
+#: public/views/options/subscription.php:203
+msgid "Width"
+msgstr "Ширина"
+
+#: public/views/closeSettingsView.php:200 public/views/dimensionsView.php:32
+#: public/views/htmlCustomButtonElement.php:55
+#: public/views/options/subscription.php:161
+#: public/views/options/subscription.php:207
+msgid "Height"
+msgstr "Высота"
+
+#: public/views/htmlCustomButtonElement.php:63
+#: public/views/options/subscription.php:166
+#: public/views/options/subscription.php:212
+msgid "Border width"
+msgstr "Ширина рамки"
+
+#: public/views/floatingButton.php:75
+#: public/views/htmlCustomButtonElement.php:71
+#: public/views/options/subscription.php:216
+msgid "Border radius"
+msgstr "Радиус рамки"
+
+#: public/views/floatingButton.php:87
+#: public/views/htmlCustomButtonElement.php:89
+#: public/views/options/subscription.php:170
+#: public/views/options/subscription.php:234
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: public/views/floatingButton.php:93
+#: public/views/htmlCustomButtonElement.php:109
+#: public/views/options/subscription.php:182
+#: public/views/options/subscription.php:240
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: public/views/htmlCustomButtonElement.php:163
+#: public/views/options/subscription.php:293
+msgid "Redirect URL"
+msgstr "URL перенаправления"
+
+#: public/views/htmlCustomButtonElement.php:189
+#: public/views/jsVariableView.php:58 public/views/mediaButton.php:48
+msgid "Insert"
+msgstr "Вставить"
+
+#: public/views/otherConditionsView.php:20
+msgid "Schedule"
+msgstr "Расписание"
+
+#: public/views/license.php:32
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+#: public/views/license.php:41
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: public/views/license.php:46
+msgid "Activate"
+msgstr "Активировать"
+
+#: com/helpers/AdminHelper.php:987
+msgid "Rate Us"
+msgstr "Оцените нас"
+
+#: public/views/subscribers.php:47
+msgid "Subscribers"
+msgstr "Подписчики"
+
+#: public/views/subscribers.php:132
+msgid "Select file"
+msgstr "Выбрать файл"
+
+#: public/views/closeSettingsView.php:115
+msgid "Button position"
+msgstr "Позиция кнопки"
+
+#: public/views/closeSettingsView.php:230
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: public/views/jsVariableView.php:22
+msgid "Selector"
+msgstr "Селектор"
+
+#: public/views/jsVariableView.php:40
+msgid "Attribute"
+msgstr "Атрибут"
+
+#: com/classes/Filters.php:804 public/views/popupOpeningCounter.php:23
+msgid "Views"
+msgstr "Просмотры"
+
+#: com/classes/Filters.php:813
+msgid "Class"
+msgstr "Класс"
+
+#: com/classes/Filters.php:836
+msgid "Clone this item"
+msgstr "Клонировать этот элемент"
+
+#: com/classes/Filters.php:837
+msgid "Clone"
+msgstr "Клонировать"
+
+#: com/classes/Actions.php:768 com/helpers/AdminHelper.php:2115
+#: public/views/newsletter.php:109
+msgid "Unsubscribe"
+msgstr "Отменить подписку"
+
+#: public/views/popupOpeningCounter.php:27
+msgid "Reset"
+msgstr "Сброс"
+
+#: com/classes/Actions.php:1165
+msgid "reset"
+msgstr "сброс"
+
+#: public/views/optionsView.php:202 public/views/optionsView.php:233
+msgid "Speed"
+msgstr "Скорость"
+
+#: com/classes/Actions.php:1247
+msgid "No post to duplicate has been supplied!"
+msgstr "Не выбрана запись для дублирования!"
+
+#: com/classes/Updates.php:42
+msgid "License"
+msgstr "Лицензия"
+
+#: com/classes/ConditionCreator.php:522
+msgid "No Data"
+msgstr "Нет данных"
+
+#: public/views/options/facebook.php:17
+msgid "Layout"
+msgstr "Макет"
+
+#: com/classes/ConditionCreator.php:551
+#: public/views/htmlCustomButtonElement.php:192
+#: public/views/jsVariableView.php:61 public/views/mediaButton.php:51
+msgid "Cancel"
+msgstr "Отмена"
+
+#: com/classes/dataTable/Subscribers.php:41
+msgid "Popup"
+msgstr "Всплывающее окно"
+
+#: com/classes/dataTable/Subscribers.php:153 com/libs/ListTable.php:565
+msgid "All dates"
+msgstr "Все даты"
+
+#: public/views/options/subscription.php:106
+#: public/views/options/subscription.php:132
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: com/classes/extension/SgpbPopupExtension.php:79
+msgid "WPForms"
+msgstr "WPForms"
+
+#: public/views/options/subscription.php:110
+#: public/views/options/subscription.php:136
+msgid "Required field"
+msgstr "Обязательное поле"
+
+#: com/classes/extension/SgpbPopupExtension.php:81
+msgid "form"
+msgstr "форма"
+
+#: com/classes/extension/SgpbPopupExtension.php:83
+msgid "Form Settings"
+msgstr "Настройки формы"
+
+#: public/views/options/subscription.php:248
+msgid "Error message"
+msgstr "Сообщение об ошибке"
+
+#: com/classes/extension/SgpbPopupExtension.php:86
+msgid "Show Description"
+msgstr "Показать описание"
+
+#: com/classes/extension/SgpbPopupExtension.php:90
+msgid "Click me"
+msgstr "Нажмите меня"
+
+#: com/libs/parsers.php:44 com/libs/parsers.php:75 com/libs/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr "При чтении этого файла WXR произошла ошибка"
+
+#: com/libs/parsers.php:45
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Подробности показаны выше. Теперь импортер попытается снова с другим парсером..."
+
+#: com/libs/parsers.php:87 com/libs/parsers.php:92 com/libs/parsers.php:322
+#: com/libs/parsers.php:527
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Это не файл WXR, отсутствует/неверный номер версии WXR"
+
+#: public/views/options/subscription.php:318
+msgid "Live Preview"
+msgstr "Предпросмотр в реальном времени"
+
+#: com/libs/ListTable.php:446
+msgid "Select bulk action"
+msgstr "Выберите действие в пакете"
+
+#: com/libs/ListTable.php:508 com/libs/ListTable.php:1277
+msgid "Show more details"
+msgstr "Показать больше информации"
+
+#: com/classes/dataTable/Subscribers.php:192 com/libs/ListTable.php:563
+#: com/libs/Table.php:223
+msgid "Filter by date"
+msgstr "Фильтр по дате"
+
+#. translators: 1: month name, 2: 4-digit year
+#: com/libs/ListTable.php:578
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: com/libs/ListTable.php:639 com/libs/ListTable.php:651
+msgid "No comments"
+msgstr "Нет комментариев"
+
+#: com/libs/ListTable.php:651
+msgid "No approved comments"
+msgstr "Нет одобренных комментариев"
+
+#: com/libs/ListTable.php:769
+msgid "First page"
+msgstr "Первая страница"
+
+#: com/libs/ListTable.php:779
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: com/libs/ListTable.php:786 com/libs/ListTable.php:789
+msgid "Current Page"
+msgstr "Текущая страница"
+
+#: com/libs/ListTable.php:803
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: com/libs/ListTable.php:813
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: com/libs/ListTable.php:1026
+msgid "Select All"
+msgstr "Выбрать всё"
+
+#: com/libs/Importer.php:115 com/libs/Importer.php:128
+#: com/libs/Importer.php:180 com/libs/Importer.php:185
+#: com/libs/Importer.php:195
+msgid "Sorry, there has been an error."
+msgstr "Извините, произошла ошибка."
+
+#: com/libs/Importer.php:164
+msgid "All done."
+msgstr "Всё готово."
+
+#: com/libs/Importer.php:164
+msgid "Have fun!"
+msgstr "Наслаждайтесь!"
+
+#: public/views/dimensionsView.php:22
+msgid "Size"
+msgstr "Размер"
+
+#. translators: export file path
+#: com/libs/Importer.php:187
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Не удалось найти файл экспорта в <code>%s</code>. Вероятно, это было вызвано проблемой с разрешениями."
+
+#. translators: import data version
+#: com/libs/Importer.php:204
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Этот файл WXR (версия %s) может не поддерживаться этой версией средства импорта. Пожалуйста, рассмотрите возможность обновления."
+
+#: com/libs/Importer.php:260
+msgid "Assign Authors"
+msgstr "Назначить авторов"
+
+#: com/libs/Importer.php:261
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "Чтобы облегчить редактирование и сохранение импортированного содержимого, вы можете переназначить автора на существующего. Для примера, вы можете импортировать все записи под пользователем <code>admin</code>."
+
+#. translators: default role
+#: com/libs/Importer.php:265
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Если новый пользователь создан WordPress, новый пароль будет сгенерирован случайным образом, и роль нового пользователя&#8217;s будет установлена как %s. Необходимо вручную изменить сведения о новом пользователе&#8217;s."
+
+#: com/libs/Importer.php:274
+msgid "Submit"
+msgstr "Отправить"
+
+#: com/libs/Importer.php:288
+msgid "Import author:"
+msgstr "Автор импорта:"
+
+#: com/libs/Importer.php:299
+msgid "or create new user with login name:"
+msgstr "или создайте нового пользователя с логином:"
+
+#: com/libs/Importer.php:302
+msgid "as a new user:"
+msgstr "как новый пользователь:"
+
+#: com/libs/Importer.php:312
+msgid "or assign posts to an existing user:"
+msgstr "или назначьте запись существующему пользователю:"
+
+#. translators: author display name
+#: com/libs/Importer.php:380
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Не удалось создать нового пользователя для %s. Его записи будут отнесены к текущему пользователю."
+
+#. translators: category nicename
+#: com/libs/Importer.php:434
+msgid "Failed to import category %s"
+msgstr "Не удалось импортировать рубрику %s"
+
+#. translators: tag name
+#: com/libs/Importer.php:479
+msgid "Failed to import post tag %s"
+msgstr "Не удалось импортировать метку записи %s"
+
+#: public/views/floatingButton.php:80
+#: public/views/htmlCustomButtonElement.php:79
+#: public/views/options/subscription.php:176
+#: public/views/options/subscription.php:220
+msgid "Border color"
+msgstr "Цвет рамки"
+
+#: com/classes/Updates.php:152 com/classes/Updates.php:173
+msgid "An error occurred, please try again."
+msgstr "Произошла ошибка, попробуйте ещё раз."
+
+#: com/classes/ConditionCreator.php:552 public/views/importConfigView.php:99
+msgid "Save"
+msgstr "Сохранить"
+
+#: public/views/mainActionButtons.php:9
+msgid "Popups"
+msgstr "Всплывающие окна"
+
+#. translators: numner comments, numner approved comments
+#: com/libs/ListTable.php:630
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#. translators: numner comments, numner approved comments
+#: com/libs/ListTable.php:632
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s одобренный комментарий"
+msgstr[1] "%s одобренных комментария"
+msgstr[2] "%s одобренных комментариев"
+
+#. translators: numner comments, numner pending comments
+#: com/libs/ListTable.php:634
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s непроверенный комментарий"
+msgstr[1] "%s непроверенных комментария"
+msgstr[2] "%s непроверенных комментариев"
+
+#. translators: total items
+#. translators: total item, total items
+#: com/libs/ListTable.php:732 com/libs/ListTable.php:1303
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s элемент"
+msgstr[1] "%s элемента"
+msgstr[2] "%s элементов"
+
+#: public/views/dimensionsView.php:42
+msgid "Max height"
+msgstr "Макс. высота"
+
+#: public/views/dimensionsView.php:48
+msgid "Min width"
+msgstr "Мин. ширина"
+
+#: public/views/dimensionsView.php:52
+msgid "Min height"
+msgstr "Мин высота"
+
+#: com/libs/Importer.php:313
+msgid "- Select -"
+msgstr "- Выбрать -"
+
+#. translators: current page,  total pages
+#: com/libs/ListTable.php:796
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s из %2$s"
+
+#: com/classes/Actions.php:1309
+msgid "(clone)"
+msgstr "(клон)"
+
+#: com/classes/Actions.php:1306
+msgid "(no title) (clone)"
+msgstr "(без заголовка) (клон)"
+
+#: com/classes/popups/SubscriptionPopup.php:665
+msgid "no title"
+msgstr "без заголовка"
+
+#: com/classes/extension/SgpbPopupExtension.php:85
+msgid "Show Title"
+msgstr "Показать заголовок"
+
+#: public/views/options/subscription.php:230
+msgid "Title (in progress)"
+msgstr "Заголовок (в процессе)"
+
+#: public/views/newsletter.php:56
+msgid "Your subject here"
+msgstr "Ваша тема здесь"
+
+#: public/views/newsletter.php:108
+msgid "Your user name"
+msgstr "Ваше имя пользователя"
+
+#: public/views/newsletter.php:107
+msgid "Your blog name"
+msgstr "Название вашего блога"
+
+#: public/views/subscribers.php:54
+msgid "Add new"
+msgstr "Добавить новое"
+
+#: public/views/popupDesignView.php:42
+msgid "Add some space, in pixels, around your popup content."
+msgstr "Добавьте немного пространства в пикселях вокруг содержимого всплывающего окна."
+
+#: public/views/subscribers.php:110
+msgid "Add to list"
+msgstr "Добавить в список"
+
+#: public/views/options/subscription.php:276
+msgid "After successful subscription"
+msgstr "После успешной подписки"
+
+#: com/classes/Filters.php:805
+msgid "Status"
+msgstr "Статус"
+
+#: public/views/options/subscription.php:198
+msgid "Submit button styles"
+msgstr "Стили кнопки отправки"
+
+#: com/libs/Importer.php:116
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, попробуйте еще раз."
+
+#: public/views/optionsView.php:33
+msgid "Action on popup content click"
+msgstr "Действие при клике по содержимому всплывающего окна"
+
+#: public/views/popupDesignView.php:125
+msgid "Add a custom class to the overlay for additional customization."
+msgstr "Добавьте пользовательский класс к наложению для дополнительной настройки."
+
+#: public/views/settings.php:94
+msgid "All the popup data will be deleted after removing the plugin if this option is checked."
+msgstr "Все данные всплывающих окон будут удалены после удаления плагина, если эта опция отмечена."
+
+#: com/libs/ListTable.php:458
+msgid "Apply"
+msgstr "Применить"
+
+#: public/views/optionsView.php:138
+msgid "Apply option on each page"
+msgstr "Применить параметр на каждой странице"
+
+#: com/libs/Importer.php:310
+msgid "assign posts to an existing user:"
+msgstr "назначить записи существующему пользователю:"
+
+#: public/views/closeSettingsView.php:304
+#: public/views/closeSettingsView.php:315
+msgid "Auto close popup"
+msgstr "Авто закрытие всплывающего окна"
+
+#: public/views/importConfigView.php:72
+msgid "Available fields"
+msgstr "Доступные поля"
+
+#: public/views/closeSettingsView.php:141
+msgid "Bottom"
+msgstr "Снизу"
+
+#: public/views/popupDesignView.php:130
+msgid "Change color"
+msgstr "Сменить цвет"
+
+#: public/views/closeSettingsView.php:173 public/views/popupDesignView.php:215
+msgid "Change image"
+msgstr "Сменить изображение"
+
+#: public/views/htmlCustomButtonElement.php:137 public/views/optionsView.php:70
+msgid "Close popup"
+msgstr "Закрыть всплывающее окно"
+
+#: com/libs/ListTable.php:448
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: public/views/closeSettingsView.php:100
+msgid "Button delay"
+msgstr "Задержка кнопки"
+
+#: public/views/htmlCustomButtonElement.php:121
+msgid "Button events"
+msgstr "События кнопки"
+
+#: public/views/closeSettingsView.php:162
+msgid "Button image"
+msgstr "Изображение кнопки"
+
+#: public/views/popupDesignView.php:230
+msgid "Choose how the background image will be displayed with your content"
+msgstr "Выберите способ отображения фонового изображения вместе с содержимым"
+
+#: public/views/newsletter.php:42
+msgid "Choose the popup"
+msgstr "Выберите всплывающее окно"
+
+#: public/views/closeSettingsView.php:339
+#: public/views/closeSettingsView.php:350
+msgid "Close popup after the page scroll"
+msgstr "Закрыть всплывающее окно после прокрутки страницы"
+
+#: public/views/options/subscription.php:90
+msgid "Confirmation text"
+msgstr "Текст подтверждения"
+
+#: public/views/popupDesignView.php:153
+msgid "Content custom css class"
+msgstr "Пользовательский класс CSS содержимого"
+
+#: public/views/htmlCustomButtonElement.php:42
+msgid "Custom Button Styles"
+msgstr "Пользовательские стили кнопок"
+
+#: public/views/optionsView.php:339
+msgid "Custom event delay"
+msgstr "Пользовательская задержка события"
+
+#: public/views/newsletter.php:113
+msgid "Custom fields' shortcodes"
+msgstr "Шорткоды пользовательских полей"
+
+#: public/views/newsletter.php:103
+msgid "Default shortcodes"
+msgstr "Шорткоды по умолчанию"
+
+#: public/views/settings.php:83
+msgid "Delete popup data"
+msgstr "Удалить данные всплывающего окна"
+
+#: com/classes/dataTable/Subscribers.php:201
+msgid "Delete subscriber(s)"
+msgstr "Удалить подписчика(ов)"
+
+#: com/classes/Actions.php:253
+msgid "Dismiss this notice."
+msgstr "Отклонить это уведомление."
+
+#: public/views/optionsView.php:272
+msgid "Disable page scrolling"
+msgstr "Отключить прокрутку страницы"
+
+#: public/views/popupDesignView.php:65
+msgid "Disable popup border"
+msgstr "Отключить рамку всплывающего окна"
+
+#: public/views/closeSettingsView.php:261
+#: public/views/closeSettingsView.php:278
+msgid "Disable popup closing"
+msgstr "Отключить закрытие всплывающего окна"
+
+#: public/views/closeSettingsView.php:60
+msgid "Dismiss on \"esc\" key"
+msgstr "Отклонить по клавише «esc»"
+
+#: public/views/closeSettingsView.php:240
+msgid "Dismiss on overlay click"
+msgstr "Отклонить при нажатии на наложение"
+
+#: com/classes/Actions.php:254
+msgid "Don't show again."
+msgstr "Больше не показывать."
+
+#: public/views/options/facebook.php:21
+msgid "Don't show share button"
+msgstr "Не показывать кнопку Поделиться"
+
+#: public/views/newsletter.php:61
+msgid "Edit newsletter email template below"
+msgstr "Изменить шаблон электронного письма с информационным бюллетенем ниже"
+
+#: public/views/options/subscription.php:71
+msgid "Email placeholder"
+msgstr "Заполнитель электронной почты"
+
+#: public/views/newsletter.php:55
+msgid "Email's subject"
+msgstr "Тема письма"
+
+#: public/views/newsletter.php:47
+msgid "Emails to send in one flow per 1 minute"
+msgstr "Отправка писем одним потоком в 1 минуту"
+
+#: public/views/optionsView.php:290
+msgid "Enable content scrolling"
+msgstr "Включить прокрутку содержимого"
+
+#: public/views/options/subscription.php:75
+msgid "Enable GDPR"
+msgstr "Включить GDPR"
+
+#: public/views/popupDesignView.php:78 public/views/popupDesignView.php:101
+msgid "Enable popup overlay"
+msgstr "Включить наложение всплывающих окон"
+
+#: public/views/subscribers.php:87
+msgid "Error occurred: could not add subscriber."
+msgstr "Произошла ошибка: не удалось добавить подписчика."
+
+#: public/views/optionsView.php:111
+msgid "Estimate the popup showing frequency to the same user."
+msgstr "Приблизительно подсчитывать частоту отображения всплывающего окна для одного и того же пользователя."
+
+#: public/views/jsVariableView.php:28
+msgid "Ex. #myselector or .myselector"
+msgstr "Пример, #myselector или .myselector"
+
+#: public/views/jsVariableView.php:46
+msgid "Ex. value or data-name"
+msgstr "Пример, значение или имя данных"
+
+#: public/views/dimensionsView.php:29 public/views/dimensionsView.php:33
+#: public/views/dimensionsView.php:39 public/views/dimensionsView.php:43
+#: public/views/dimensionsView.php:49 public/views/dimensionsView.php:53
+msgid "Ex: 100, 100px or 100%"
+msgstr "Пример: 100, 100px или 100%"
+
+#: com/libs/ListTable.php:147
+msgid "Excerpt View"
+msgstr "Просмотр отрывка"
+
+#: com/libs/Importer.php:974
+msgid "Fetching attachments is not enabled"
+msgstr "Извлечение вложений не включено"
+
+#: com/classes/dataTable/Subscribers.php:194 com/libs/Table.php:226
+msgid "Filter"
+msgstr "Фильтр"
+
+#: com/classes/dataTable/Subscribers.php:190 com/libs/Table.php:220
+msgid "Filter by popup"
+msgstr "Фильтр по всплывающему окну"
+
+#: public/views/popupDesignView.php:23
+msgid "Force RTL"
+msgstr "Принудительно RTL"
+
+#: com/classes/extension/SgpbPopupExtension.php:84
+msgid "Form"
+msgstr "Форма"
+
+#: public/views/options/subscription.php:44
+msgid "Form background color"
+msgstr "Цвет фона формы"
+
+#: public/views/options/subscription.php:52
+msgid "Form background opacity"
+msgstr "Непрозрачность фона формы"
+
+#: public/views/options/subscription.php:40
+msgid "Form background options"
+msgstr "Параметры фона формы"
+
+#: public/views/options/subscription.php:64
+msgid "Form padding"
+msgstr "Внутренний отступ формы"
+
+#: public/views/newsletter.php:51
+msgid "From email"
+msgstr "Email отправителя"
+
+#: public/views/popupTypes.php:23
+msgid "Get More Extensions"
+msgstr "Получить больше расширений"
+
+#: public/views/options/subscription.php:266
+msgid "Hide for already subscribed users"
+msgstr "Скрыть для уже подписанных пользователей"
+
+#: public/views/htmlCustomButtonElement.php:99
+msgid "Hover background color"
+msgstr "Цвет фона при наведении"
+
+#: public/views/optionsView.php:301
+msgid "If the content is larger than the specified dimensions, then the content will be scrollable."
+msgstr "Если содержимое больше указанных размеров, то содержимое будет прокручиваться."
+
+#: public/views/subscribers.php:101
+msgid "Invalid email address"
+msgstr "Неверный email-адрес"
+
+#: com/libs/ListTable.php:146
+msgid "List View"
+msgstr "В виде списка"
+
+#: public/views/dimensionsView.php:38
+msgid "Max width"
+msgstr "Макс. ширина"
+
+#. translators: menu slug
+#: com/libs/Importer.php:904
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Пункт меню пропущен из-за неправильного ярлыка меню: %s"
+
+#: com/libs/Importer.php:896
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Пункт меню пропущен из-за неправильного ярлыка меню"
+
+#: com/libs/ListTable.php:321 com/libs/Table.php:292
+msgid "No items found."
+msgstr "Элементы не найдены."
+
+#: public/views/popupDesignView.php:36
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: public/views/closeSettingsView.php:132
+msgid "Right"
+msgstr "Справа"
+
+#: com/classes/extension/SgpbPopupExtension.php:80
+msgid "Select and display one of your forms."
+msgstr "Выберите и отобразите одну из ваших форм."
+
+#: public/views/closeSettingsView.php:221
+msgid "Popup border radius"
+msgstr "Радиус рамки всплывающего окна"
+
+#: com/classes/Installer.php:314
+msgid "Popup Builder License"
+msgstr "Лицензия на Popup Builder"
+
+#: public/views/optionsView.php:215
+msgid "Popup closing animation"
+msgstr "Анимация закрытия всплывающего окна"
+
+#: public/views/optionsView.php:245
+msgid "Popup location"
+msgstr "Местоположение всплывающего окна"
+
+#: public/views/optionsView.php:184
+msgid "Popup opening animation"
+msgstr "Анимация открытия всплывающего окна"
+
+#: public/views/optionsView.php:155
+msgid "Popup opening sound"
+msgstr "Звук открытия всплывающего окна"
+
+#: public/views/optionsView.php:327
+msgid "Popup order"
+msgstr "Упорядочение всплывающих окон"
+
+#: public/views/optionsView.php:118
+msgid "Popup showing count"
+msgstr "Всплывающее окно со счетчиком"
+
+#: public/views/optionsView.php:128
+msgid "Popup showing expiry"
+msgstr "Всплывающее окно с указанием срока действия"
+
+#: public/views/optionsView.php:309
+msgid "Reopen after form submission"
+msgstr "Повторно открыть после отправки формы"
+
+#: public/views/options/subscription.php:147
+msgid "Required field message"
+msgstr "Обязательное поле сообщения"
+
+#: public/views/optionsView.php:208 public/views/optionsView.php:239
+msgid "Second(s)"
+msgstr "Секунда(ы)"
+
+#: public/views/importPopupsView.php:19
+msgid "Import popups"
+msgstr "Импорт всплывающих окон"
+
+#: com/classes/Actions.php:486
+msgid "Importer"
+msgstr "Импортер"
+
+#: com/classes/MediaButton.php:116
+msgid "Insert popup"
+msgstr "Вставить всплывающее окно"
+
+#: public/views/importConfigView.php:68
+msgid "Match Your Fields"
+msgstr "Сопоставить поля"
+
+#: public/views/popupTypes.php:47
+msgid "More Ideas?"
+msgstr "Больше идей?"
+
+#: public/views/newsletter.php:37
+msgid "Newsletter settings"
+msgstr "Настройки новостной рассылки"
+
+#: public/views/newsletter.php:101
+msgid "Newsletter Shortcodes"
+msgstr "Шорткоды для новостных рассылок"
+
+#: com/classes/ConditionCreator.php:77
+msgid "OR"
+msgstr "ИЛИ"
+
+#: public/views/options/subscription.php:188
+msgid "Placeholder color"
+msgstr "Цвет заполнителя"
+
+#: public/views/main/image.php:9
+msgid "Please choose your picture"
+msgstr "Выберите изображение"
+
+#: public/views/htmlCustomButtonElement.php:169
+#: public/views/options/subscription.php:297 public/views/optionsView.php:53
+msgid "Redirect to new tab"
+msgstr "Перенаправить на новую вкладку"
+
+#: com/classes/extension/SgpbPopupExtension.php:82
+msgid "Select Popup"
+msgstr "Выберите всплывающее окно"
+
+#: public/views/subscribers.php:21 public/views/subscribers.php:119
+msgid "Select subscription(s):"
+msgstr "Выберите подписку(и):"
+
+#: public/views/newsletter.php:93
+msgid "Send newsletter"
+msgstr "Отправить новостную рассылку"
+
+#: public/views/htmlCustomButtonElement.php:143 public/views/optionsView.php:80
+msgid "Show alert"
+msgstr "Показать предупреждение"
+
+#: public/views/newsletter.php:105
+msgid "Subscriber First name"
+msgstr "Имя подписчика"
+
+#: public/views/newsletter.php:106
+msgid "Subscriber Last name"
+msgstr "Фамилия подписчика"
+
+#: public/views/subscribers.php:97
+msgid "Subscription is not selected"
+msgstr "Подписка не выбрана"
+
+#: com/classes/Actions.php:247 com/classes/Filters.php:339
+msgid "Thank you for choosing our plugin!"
+msgstr "Спасибо, что выбрали наш плагин!"
+
+#: public/views/newsletter.php:33
+msgid "You will receive an email notification after all emails are sent"
+msgstr "Вы получите уведомление по электронной почте после того, как все электронные письма будут отправлены"
+
+#: public/views/optionsView.php:283
+msgid "If this option is checked, the page won't scroll until the popup is open."
+msgstr "Если этот параметр отмечен, страница не будет прокручиваться, пока всплывающее окно не будет открыто."
+
+#: public/views/popupDesignView.php:89 public/views/popupDesignView.php:112
+msgid "If this option is checked, the popup will appear with an overlay."
+msgstr "Если этот параметр отмечен, всплывающее окно будет отображаться с наложением."
+
+#: public/views/optionsView.php:167
+msgid "If this option is enabled the popup will appear with a sound. The sound option is not available on mobile devices, as there are restrictions on sound auto-play options for mobile devices."
+msgstr "Если эта опция включена, всплывающее окно появится со звуком. Опция звука недоступна на мобильных устройствах, так как существуют ограничения на параметры автоматического воспроизведения звука для мобильных устройств."
+
+#: public/views/optionsView.php:320
+msgid "If this option is enabled, the popup will reopen after the form submission."
+msgstr "Если эта опция включена, всплывающее окно снова откроется после отправки формы."
+
+#: public/views/settings.php:115
+msgid "In spite of user roles the administrator always has access to the plugin."
+msgstr "Несмотря на роли пользователей, администратор всегда имеет доступ к плагину."
+
+#: public/views/popupDesignView.php:54
+msgid "Increase or dicrease the value to set the priority of displaying the popup content in comparison of other elements on the page. The highest value of z-index is 2147483647."
+msgstr "Увеличивайте или уменьшайте значение, чтобы установить приоритет отображения содержимого всплывающего окна по сравнению с другими элементами на странице. Наибольшее значение z-index равно 2147483647."
+
+#: public/views/options/subscription.php:152
+msgid "Inputs' style"
+msgstr "Стиль ввода"
+
+#: com/classes/MediaButton.php:65
+msgid "Insert custom JS variable"
+msgstr "Вставить пользовательскую переменную JS"
+
+#: public/views/jsVariableView.php:13
+msgid "Insert JS variable inside the popup"
+msgstr "Вставьте переменную JS во всплывающее окно"
+
+#: com/classes/Actions.php:731
+msgid "Once Every Minute"
+msgstr "Раз в минуту"
+
+#: public/views/importConfigView.php:75
+msgid "Our list fields"
+msgstr "Наши поля списка"
+
+#: public/views/optionsView.php:123
+msgid "Select how many times the popup will be shown for the same user."
+msgstr "Выберите, сколько раз всплывающее окно будет показано для одного и того же пользователя."
+
+#. translators: post author
+#: com/libs/Importer.php:232
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Не удалось импортировать автора %s. Их записи будут закреплены за текущим пользователем."
+
+#: com/libs/Importer.php:1206
+msgid "Howdy!Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Привет! Загрузите файл WordPress eXtended RSS (WXR), и мы импортируем записи, страницы, комментарии, настраиваемые поля, рубрики и метки на этот сайт."
+
+#: public/views/popupDesignView.php:158
+msgid "Add a custom class to the content for additional customization"
+msgstr "Добавьте пользовательский класс к содержимому для дополнительной настройки"
+
+#: public/views/closeSettingsView.php:214
+msgid "Popup border color"
+msgstr "Цвет рамки всплывающего окна"
+
+#: public/views/otherConditionsView.php:31
+msgid "Show popup in date range"
+msgstr "Показать всплывающее окно в диапазоне дат"
+
+#: public/views/floatingButton.php:99
+#: public/views/htmlCustomButtonElement.php:131 public/views/optionsView.php:66
+msgid "Text"
+msgstr "Текст"
+
+#: public/views/closeSettingsView.php:80
+msgid "Show \"close\" button"
+msgstr "Показывать кнопку \"Закрыть\""
+
+#: public/views/settings.php:110
+msgid "User role to access the plugin"
+msgstr "Роль пользователя для доступа к плагину"
+
+#: public/views/options/subscription.php:252
+msgid "Invalid email message"
+msgstr "Недопустимый email"
+
+#: public/views/options/subscription.php:256
+msgid "Show form on the Top"
+msgstr "Показать форму вверху"
+
+#: com/config/dataConfig.php:59 com/config/dataConfig.php:428
+msgid "Add"
+msgstr "Добавить"
+
+#: com/helpers/ConfigDataHelper.php:943 com/helpers/ConfigDataHelper.php:953
+#: com/helpers/ConfigDataHelper.php:2220 com/helpers/ConfigDataHelper.php:2230
+msgid "Default"
+msgstr "По умолчанию"
+
+#: com/config/config.php:171
+msgid "Facebook"
+msgstr "Facebook"
+
+#: com/helpers/ConfigDataHelper.php:625 com/helpers/ConfigDataHelper.php:1902
+msgid "Friday"
+msgstr "Пятница"
+
+#: com/config/config.php:170
+msgid "HTML"
+msgstr "HTML"
+
+#: com/config/dataConfig.php:620 com/config/dataConfig.php:1012
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: com/helpers/ConfigDataHelper.php:621 com/helpers/ConfigDataHelper.php:1898
+msgid "Monday"
+msgstr "Понедельник"
+
+#: com/helpers/ConfigDataHelper.php:626 com/helpers/ConfigDataHelper.php:1903
+msgid "Saturday"
+msgstr "Суббота"
+
+#: com/classes/Filters.php:205 com/classes/RegisterPostType.php:329
+#: com/classes/RegisterPostType.php:330
+msgid "Settings"
+msgstr "Настройки"
+
+#: com/helpers/ConfigDataHelper.php:627 com/helpers/ConfigDataHelper.php:1904
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: com/helpers/ConfigDataHelper.php:624 com/helpers/ConfigDataHelper.php:1901
+msgid "Thursday"
+msgstr "Четверг"
+
+#: com/helpers/ConfigDataHelper.php:622 com/helpers/ConfigDataHelper.php:1899
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: com/config/dataConfig.php:805 public/views/options/facebook.php:13
+#: public/views/optionsView.php:49
+msgid "URL"
+msgstr "URL"
+
+#: com/helpers/ConfigDataHelper.php:623 com/helpers/ConfigDataHelper.php:1900
+msgid "Wednesday"
+msgstr "Среда"
+
+#: com/config/dataConfig.php:716
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: com/helpers/AdminHelper.php:1323 com/helpers/ConfigDataHelper.php:772
+#: com/helpers/ConfigDataHelper.php:2049
+msgid "On load"
+msgstr "При загрузке"
+
+#: com/helpers/AdminHelper.php:1324 com/helpers/ConfigDataHelper.php:773
+#: com/helpers/ConfigDataHelper.php:2050
+msgid "On click"
+msgstr "По щелчку"
+
+#: com/helpers/AdminHelper.php:1325 com/helpers/ConfigDataHelper.php:774
+#: com/helpers/ConfigDataHelper.php:2051
+msgid "On hover"
+msgstr "При наведении"
+
+#: com/helpers/ConfigDataHelper.php:137 com/helpers/ConfigDataHelper.php:140
+#: com/helpers/ConfigDataHelper.php:1414 com/helpers/ConfigDataHelper.php:1417
+msgid "Select "
+msgstr "Выбрать "
+
+#: com/helpers/ConfigDataHelper.php:209 com/helpers/ConfigDataHelper.php:1486
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: com/helpers/ConfigDataHelper.php:210 com/helpers/ConfigDataHelper.php:1487
+msgid "Posts Page"
+msgstr "Страница записей"
+
+#: com/helpers/ConfigDataHelper.php:211 com/helpers/ConfigDataHelper.php:1488
+msgid "Search Pages"
+msgstr "Поиск страниц"
+
+#: com/helpers/ConfigDataHelper.php:212 com/helpers/ConfigDataHelper.php:1489
+msgid "404 Pages"
+msgstr "Страницы 404"
+
+#: com/helpers/ConfigDataHelper.php:214 com/helpers/ConfigDataHelper.php:1491
+msgid "Shop Page"
+msgstr "Страница магазина"
+
+#: com/helpers/ConfigDataHelper.php:217 com/helpers/ConfigDataHelper.php:1494
+msgid "Archive Page"
+msgstr "Страница архива"
+
+#: com/helpers/ConfigDataHelper.php:226 com/helpers/ConfigDataHelper.php:1503
+msgid "Default Template"
+msgstr "Шаблон по умолчанию"
+
+#: com/helpers/ConfigDataHelper.php:319 com/helpers/ConfigDataHelper.php:1596
+msgid "Close Popup"
+msgstr "Закрыть всплывающее окно"
+
+#: com/helpers/ConfigDataHelper.php:330 com/helpers/ConfigDataHelper.php:1607
+msgid "Redirect"
+msgstr "Перенаправление"
+
+#: com/helpers/ConfigDataHelper.php:341 com/helpers/ConfigDataHelper.php:417
+#: com/helpers/ConfigDataHelper.php:1618 com/helpers/ConfigDataHelper.php:1694
+msgid "Copy to clipboard"
+msgstr "Скопировать в буфер обмена"
+
+#: com/helpers/ConfigDataHelper.php:441 com/helpers/ConfigDataHelper.php:825
+#: com/helpers/ConfigDataHelper.php:1718 com/helpers/ConfigDataHelper.php:2102
+msgid "Open popup"
+msgstr "Открыть всплывающее окно"
+
+#: com/helpers/ConfigDataHelper.php:452 com/helpers/ConfigDataHelper.php:836
+#: com/helpers/ConfigDataHelper.php:1729 com/helpers/ConfigDataHelper.php:2113
+msgid "Hide popup"
+msgstr "Скрыть всплывающее окно"
+
+#: com/classes/RegisterPostType.php:96 public/views/popupTypes.php:15
+msgid "Add New Popup"
+msgstr "Добавить новое всплывающее окно"
+
+#: com/classes/RegisterPostType.php:98
+msgid "Edit Popup"
+msgstr "Изменить всплывающее окно"
+
+#: com/classes/RegisterPostType.php:97
+msgid "New Popup"
+msgstr "Новое всплывающее окно"
+
+#: com/classes/RegisterPostType.php:99
+msgid "View Popup"
+msgstr "Просмотр всплывающего окна"
+
+#: com/config/dataConfig.php:60 com/config/dataConfig.php:429
+msgid "Delete"
+msgstr "Удалить"
+
+#: com/config/dataConfig.php:636
+msgid "Push Notification"
+msgstr "Отправить уведомление"
+
+#: com/helpers/AdminHelper.php:1085
+msgid "I already did"
+msgstr "Уже сделано"
+
+#: com/helpers/AdminHelper.php:1087
+msgid "Maybe later"
+msgstr "Возможно позже"
+
+#: com/helpers/AdminHelper.php:1322 com/helpers/ConfigDataHelper.php:635
+#: com/helpers/ConfigDataHelper.php:771 com/helpers/ConfigDataHelper.php:1912
+#: com/helpers/ConfigDataHelper.php:2048
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: com/helpers/ConfigDataHelper.php:548 com/helpers/ConfigDataHelper.php:1825
+msgid "Auto"
+msgstr "Авто"
+
+#: com/helpers/ConfigDataHelper.php:559 com/helpers/ConfigDataHelper.php:1836
+msgid "Full screen"
+msgstr "На весь экран"
+
+#: com/helpers/ConfigDataHelper.php:563 com/helpers/ConfigDataHelper.php:1840
+msgid "Devices"
+msgstr "Устройства"
+
+#: com/helpers/ConfigDataHelper.php:564 com/helpers/ConfigDataHelper.php:1841
+msgid "User Status"
+msgstr "Статус пользователя"
+
+#: com/helpers/ConfigDataHelper.php:566 com/helpers/ConfigDataHelper.php:1843
+msgid "User Role"
+msgstr "Роль пользователя"
+
+#: com/helpers/ConfigDataHelper.php:575 com/helpers/ConfigDataHelper.php:1852
+msgid "Countries"
+msgstr "Страны"
+
+#: com/helpers/ConfigDataHelper.php:704 com/helpers/ConfigDataHelper.php:1981
+msgid "Due Date"
+msgstr "Срок выполнения"
+
+#: com/helpers/ConfigDataHelper.php:716 com/helpers/ConfigDataHelper.php:1993
+msgid "Timer"
+msgstr "Таймер"
+
+#: com/helpers/ConfigDataHelper.php:765 com/helpers/ConfigDataHelper.php:2042
+msgid "True"
+msgstr "True"
+
+#: com/helpers/ConfigDataHelper.php:766 com/helpers/ConfigDataHelper.php:2043
+msgid "False"
+msgstr "False"
+
+#: com/helpers/ConfigDataHelper.php:767 com/helpers/ConfigDataHelper.php:2044
+msgid "Inside"
+msgstr "Внутри"
+
+#: com/helpers/ConfigDataHelper.php:843 com/helpers/ConfigDataHelper.php:2120
+msgid "Standard"
+msgstr "Стандарт"
+
+#: com/helpers/ConfigDataHelper.php:846 com/helpers/ConfigDataHelper.php:2123
+#: public/views/htmlCustomButtonElement.php:17
+msgid "Button"
+msgstr "Кнопка"
+
+#: com/helpers/ConfigDataHelper.php:851 com/helpers/ConfigDataHelper.php:2128
+msgid "Cover"
+msgstr "Обложка"
+
+#: com/helpers/ConfigDataHelper.php:852 com/helpers/ConfigDataHelper.php:2129
+msgid "Contain"
+msgstr "Вместить"
+
+#: com/helpers/ConfigDataHelper.php:853 com/helpers/ConfigDataHelper.php:2130
+msgid "Repeat"
+msgstr "Повторение"
+
+#: com/helpers/ConfigDataHelper.php:858 com/helpers/ConfigDataHelper.php:877
+#: com/helpers/ConfigDataHelper.php:2135 com/helpers/ConfigDataHelper.php:2154
+msgid "Flip"
+msgstr "Вращать"
+
+#: com/helpers/ConfigDataHelper.php:862 com/helpers/ConfigDataHelper.php:881
+#: com/helpers/ConfigDataHelper.php:2139 com/helpers/ConfigDataHelper.php:2158
+msgid "Flash"
+msgstr "Фспышка"
+
+#: com/helpers/ConfigDataHelper.php:870 com/helpers/ConfigDataHelper.php:889
+#: com/helpers/ConfigDataHelper.php:2147 com/helpers/ConfigDataHelper.php:2166
+msgid "Jello"
+msgstr "Желе"
+
+#: com/helpers/ConfigDataHelper.php:872 com/helpers/ConfigDataHelper.php:2149
+msgid "FadeIn"
+msgstr "Постепенное появление"
+
+#: com/helpers/ConfigDataHelper.php:1250 com/helpers/ConfigDataHelper.php:2527
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: com/classes/RegisterPostType.php:92
+msgctxt "post type singular name"
+msgid "Popup"
+msgstr "Всплывающее окно"
+
+#: com/classes/RegisterPostType.php:245
+msgid "News"
+msgstr "Новости"
+
+#: com/classes/Filters.php:181 com/classes/RegisterPostType.php:347
+#: com/classes/RegisterPostType.php:348
+msgid "Support"
+msgstr "Поддержка"
+
+#: com/config/dataConfig.php:39
+msgid "Everywhere"
+msgstr "Везде"
+
+#: com/config/dataConfig.php:41
+msgid "All posts"
+msgstr "Все записи"
+
+#: com/config/dataConfig.php:44
+msgid "Post category"
+msgstr "Рубрика записи"
+
+#: com/config/dataConfig.php:47
+msgid "All pages"
+msgstr "Все страницы"
+
+#: com/config/dataConfig.php:48
+msgid "Selected pages"
+msgstr "Выбранные страницы"
+
+#: com/config/dataConfig.php:49
+msgid "Page type"
+msgstr "Тип страницы"
+
+#: com/config/dataConfig.php:50
+msgid "Page template"
+msgstr "Шаблон страницы"
+
+#: com/config/dataConfig.php:53
+msgid "All tags"
+msgstr "Все метки"
+
+#: com/config/dataConfig.php:247
+msgid "On Click"
+msgstr "По щелчку"
+
+#: com/config/dataConfig.php:628
+msgid "PDF"
+msgstr "PDF"
+
+#: com/config/dataConfig.php:588 public/views/conditionsView.php:17
+msgid "Geo Targeting"
+msgstr "Гео-таргетинг"
+
+#: com/config/dataConfig.php:596
+msgid "Iframe"
+msgstr "Iframe"
+
+#: com/config/dataConfig.php:692
+msgid "Social"
+msgstr "Соцсети"
+
+#: com/config/dataConfig.php:708
+msgid "Video"
+msgstr "Видео"
+
+#: com/config/dataConfig.php:556
+msgid "Countdown"
+msgstr "Обратный отсчет"
+
+#: com/config/dataConfig.php:548
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: com/config/dataConfig.php:644
+msgid "Random"
+msgstr "Случайный"
+
+#: com/config/dataConfig.php:612
+msgid "Log In"
+msgstr "Войти"
+
+#: com/config/dataConfig.php:660
+msgid "Registration"
+msgstr "Регистрация"
+
+#: com/config/dataConfig.php:756 com/helpers/ConfigDataHelper.php:429
+#: com/helpers/ConfigDataHelper.php:813 com/helpers/ConfigDataHelper.php:1706
+#: com/helpers/ConfigDataHelper.php:2090
+msgid "Redirect to URL"
+msgstr "Перейти на указанный URL-адрес"
+
+#: com/config/dataConfig.php:794
+msgid "Behavior"
+msgstr "Поведение"
+
+#: com/config/dataConfig.php:830
+msgid "Delay"
+msgstr "Задержка"
+
+#: com/classes/dataTable/Subscribers.php:37 com/config/dataConfig.php:935
+#: public/views/options/subscription.php:95 public/views/subscribers.php:103
+msgid "First name"
+msgstr "Имя"
+
+#: com/classes/dataTable/Subscribers.php:38 com/config/dataConfig.php:938
+#: public/views/options/subscription.php:121 public/views/subscribers.php:106
+msgid "Last name"
+msgstr "Фамилия"
+
+#: com/config/dataConfig.php:940
+msgid "This field is required."
+msgstr "Обязательное поле."
+
+#: com/config/dataConfig.php:953
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: com/config/dataConfig.php:954
+msgid "Please wait..."
+msgstr "Подождите..."
+
+#: com/classes/Actions.php:315 public/views/jsVariableView.php:34
+#: public/views/jsVariableView.php:52
+msgid "This field is required"
+msgstr "Это поле обязательно к заполнению"
+
+#: com/config/config.php:172
+msgid "Subscription"
+msgstr "Подписка"
+
+#: com/helpers/ConfigDataHelper.php:634 com/helpers/ConfigDataHelper.php:850
+#: com/helpers/ConfigDataHelper.php:857 com/helpers/ConfigDataHelper.php:876
+#: com/helpers/ConfigDataHelper.php:1911 com/helpers/ConfigDataHelper.php:2127
+#: com/helpers/ConfigDataHelper.php:2134 com/helpers/ConfigDataHelper.php:2153
+msgid "None"
+msgstr "Отсутствует"
+
+#: com/helpers/ConfigDataHelper.php:861 com/helpers/ConfigDataHelper.php:880
+#: com/helpers/ConfigDataHelper.php:2138 com/helpers/ConfigDataHelper.php:2157
+msgid "Swing"
+msgstr "Качение"
+
+#: com/helpers/ConfigDataHelper.php:632 com/helpers/ConfigDataHelper.php:1909
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: com/helpers/ConfigDataHelper.php:633 com/helpers/ConfigDataHelper.php:1910
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: com/helpers/ConfigDataHelper.php:569 com/helpers/ConfigDataHelper.php:1846
+msgid "Operating System"
+msgstr "Операционная система"
+
+#: com/classes/RegisterPostType.php:62
+msgid "Description."
+msgstr "Описание."
+
+#: com/classes/RegisterPostType.php:93
+msgctxt "admin menu"
+msgid "Popup Builder"
+msgstr "Popup Builder"
+
+#: com/classes/RegisterPostType.php:95
+msgctxt "Popup"
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: com/classes/extension/SgpbPopupExtension.php:76 com/classes/Feedback.php:107
+#: com/classes/Installer.php:312 com/helpers/AdminHelper.php:1207
+msgid "Popup Builder"
+msgstr "Popup Builder"
+
+#: com/classes/RegisterPostType.php:359 com/classes/RegisterPostType.php:360
+#: public/views/mainActionButtons.php:13
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: com/config/dataConfig.php:43
+msgid "Post type"
+msgstr "Тип записи"
+
+#: com/config/config.php:169 public/views/popupDesignView.php:195
+msgid "Image"
+msgstr "Изображение"
+
+#. Description of the plugin
+#: popup-builder.php
+msgid "The most complete popup plugin. Html, image, iframe, shortcode, video and many other popup types. Manage popup dimensions, effects, themes and more."
+msgstr "Самый полный плагин для всплывающих окон. Html, изображение, iframe, шорткод, видео и многие другие типы всплывающих окон. Управление размерами всплывающих окон, эффектами, темами и многим другим."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: popup-builder.php
+msgid "https://popup-builder.com"
+msgstr "https://popup-builder.com"
+
+#: com/classes/RegisterPostType.php:368 com/classes/RegisterPostType.php:369
+msgid "All Subscribers"
+msgstr "Все подписчики"
+
+#: com/classes/RegisterPostType.php:377 com/classes/RegisterPostType.php:378
+#: public/views/newsletter.php:29
+msgid "Newsletter"
+msgstr "Новостная рассылка"
+
+#: com/helpers/ConfigDataHelper.php:631 com/helpers/ConfigDataHelper.php:1908
+msgid "Both"
+msgstr "Оба"
+
+#: com/config/dataConfig.php:500 com/config/dataConfig.php:1000
+msgid "AdBlock"
+msgstr "Блокировка рекламы"
+
+#: com/config/dataConfig.php:684
+msgid "Scroll"
+msgstr "Прокрутить"
+
+#: com/config/dataConfig.php:532 com/config/dataConfig.php:1004
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: com/config/dataConfig.php:540 com/config/dataConfig.php:1016
+msgid "AWeber"
+msgstr "AWeber"
+
+#: com/helpers/AdminHelper.php:1081
+msgid "This is really great for your website score."
+msgstr "Это очень полезно для показателей вашего сайта."
+
+#: com/helpers/AdminHelper.php:1082
+msgid "Have your input in the development of our plugin, and we’ll provide better conversions for your site!<br /> Leave your 5-star positive review and help us go further to the perfection!"
+msgstr "Внесите свой вклад в развитие нашего плагина, и мы обеспечим лучшие конверсии для вашего сайта!<br /> Оставьте свой 5-звездочный положительный отзыв и помогите нам идти дальше к совершенству!"
+
+#: com/helpers/AdminHelper.php:1086
+msgid "You worth it!"
+msgstr "Вы того достойны!"
+
+#: com/helpers/AdminHelper.php:1321
+msgid "Select Event"
+msgstr "Выберите событие"
+
+#: com/helpers/ConfigDataHelper.php:482 com/helpers/ConfigDataHelper.php:1759
+msgid "Responsive mode"
+msgstr "Адаптивный режим"
+
+#: com/helpers/ConfigDataHelper.php:483 com/helpers/ConfigDataHelper.php:1760
+msgid "The sizes of the popup will be counted automatically, according to the content size of the popup. You can select the size in percentages, with this mode, to specify the size on the screen"
+msgstr "Размеры всплывающего окна будут подсчитаны автоматически, в соответствии с размером содержимого всплывающего окна. В этом режиме можно выбрать размер в процентах, чтобы указать размер на экране"
+
+#: com/helpers/ConfigDataHelper.php:495 com/helpers/ConfigDataHelper.php:1772
+msgid "Custom mode"
+msgstr "Пользовательский режим"
+
+#: com/helpers/ConfigDataHelper.php:496 com/helpers/ConfigDataHelper.php:1773
+msgid "Add your own custom dimensions for the popup to get the exact sizing for your popup"
+msgstr "Добавьте собственные пользовательские размеры для всплывающего окна, чтобы получить точный размер для всплывающего окна"
+
+#: com/helpers/ConfigDataHelper.php:565 com/helpers/ConfigDataHelper.php:1842
+msgid "After x pages visit"
+msgstr "После посещения x страниц"
+
+#: com/helpers/ConfigDataHelper.php:568 com/helpers/ConfigDataHelper.php:1845
+msgid "Cookie Detection"
+msgstr "Обнаружение файлов cookie"
+
+#: com/helpers/ConfigDataHelper.php:583 com/helpers/ConfigDataHelper.php:1860
+msgid "top-right"
+msgstr "вверху-справа"
+
+#: com/helpers/ConfigDataHelper.php:582 com/helpers/ConfigDataHelper.php:1859
+msgid "top-left"
+msgstr "вверху-слева"
+
+#: com/helpers/ConfigDataHelper.php:584 com/helpers/ConfigDataHelper.php:589
+#: com/helpers/ConfigDataHelper.php:1861 com/helpers/ConfigDataHelper.php:1866
+msgid "bottom-left"
+msgstr "внизу-слева"
+
+#: com/helpers/ConfigDataHelper.php:585 com/helpers/ConfigDataHelper.php:590
+#: com/helpers/ConfigDataHelper.php:1862 com/helpers/ConfigDataHelper.php:1867
+msgid "bottom-right"
+msgstr "внизу-справа"
+
+#: com/helpers/ConfigDataHelper.php:662 com/helpers/ConfigDataHelper.php:1939
+msgid "Use active URL"
+msgstr "Используйте активный URL"
+
+#: com/helpers/ConfigDataHelper.php:674 com/helpers/ConfigDataHelper.php:1951
+msgid "Share URL"
+msgstr "Поделиться URL"
+
+#: com/helpers/ConfigDataHelper.php:801 com/helpers/ConfigDataHelper.php:2078
+#: public/views/options/subscription.php:287
+msgid "Success message"
+msgstr "Сообщение об успехе"
+
+#: com/helpers/ConfigDataHelper.php:844 com/helpers/ConfigDataHelper.php:2121
+msgid "Box with count"
+msgstr "Блок со счётчиком"
+
+#: com/helpers/ConfigDataHelper.php:845 com/helpers/ConfigDataHelper.php:2122
+msgid "Button with count"
+msgstr "Кнопка со счётчиком"
+
+#: com/helpers/ConfigDataHelper.php:859 com/helpers/ConfigDataHelper.php:878
+#: com/helpers/ConfigDataHelper.php:2136 com/helpers/ConfigDataHelper.php:2155
+msgid "Shake"
+msgstr "Встряска"
+
+#: com/helpers/ConfigDataHelper.php:860 com/helpers/ConfigDataHelper.php:879
+#: com/helpers/ConfigDataHelper.php:2137 com/helpers/ConfigDataHelper.php:2156
+msgid "Wobble"
+msgstr "Колебание"
+
+#: com/helpers/ConfigDataHelper.php:863 com/helpers/ConfigDataHelper.php:882
+#: com/helpers/ConfigDataHelper.php:2140 com/helpers/ConfigDataHelper.php:2159
+msgid "Bounce"
+msgstr "Отскок"
+
+#: com/helpers/ConfigDataHelper.php:864 com/helpers/ConfigDataHelper.php:2141
+msgid "BounceInRight"
+msgstr "Подскок вправо"
+
+#: com/helpers/ConfigDataHelper.php:865 com/helpers/ConfigDataHelper.php:2142
+msgid "BounceIn"
+msgstr "Подскок в"
+
+#: com/helpers/ConfigDataHelper.php:866 com/helpers/ConfigDataHelper.php:885
+#: com/helpers/ConfigDataHelper.php:2143 com/helpers/ConfigDataHelper.php:2162
+msgid "Pulse"
+msgstr "Пульс"
+
+#: com/helpers/ConfigDataHelper.php:867 com/helpers/ConfigDataHelper.php:886
+#: com/helpers/ConfigDataHelper.php:2144 com/helpers/ConfigDataHelper.php:2163
+msgid "RubberBand"
+msgstr "Резиновая лента"
+
+#: com/helpers/ConfigDataHelper.php:869 com/helpers/ConfigDataHelper.php:2146
+msgid "SlideInUp"
+msgstr "Слайд вверх"
+
+#: com/helpers/ConfigDataHelper.php:871 com/helpers/ConfigDataHelper.php:2148
+msgid "RotateIn"
+msgstr "Повернуть в"
+
+#: com/helpers/ConfigDataHelper.php:891 com/helpers/ConfigDataHelper.php:2168
+msgid "FadeOut"
+msgstr "Постепенное исчезновение"
+
+#: com/helpers/ConfigDataHelper.php:884 com/helpers/ConfigDataHelper.php:2161
+msgid "BounceOut"
+msgstr "Отскок"
+
+#: com/helpers/ConfigDataHelper.php:944 com/helpers/ConfigDataHelper.php:954
+#: com/helpers/ConfigDataHelper.php:2221 com/helpers/ConfigDataHelper.php:2231
+msgid "Custom class"
+msgstr "Произвольный класс"
+
+#: com/helpers/ConfigDataHelper.php:1248 com/helpers/ConfigDataHelper.php:2525
+msgid "Only image files supported"
+msgstr "Поддерживаются только файлы изображений"
+
+#: com/helpers/ConfigDataHelper.php:1252 com/helpers/ConfigDataHelper.php:2529
+msgid "Only audio files supported (e.g.: mp3, wav, m4a, ogg)"
+msgstr "Поддерживаются только аудиофайлы (напр.: mp3, wav, m4a, ogg)"
+
+#: com/helpers/ConfigDataHelper.php:1253 com/helpers/ConfigDataHelper.php:2530
+msgid "Please, publish the popup before starting to use Elementor with it!"
+msgstr "Опубликуйте всплывающее окно, прежде чем начать использовать с ним Elementor!"
+
+#: com/helpers/ConfigDataHelper.php:1254 com/helpers/ConfigDataHelper.php:2531
+msgid "Please, publish the popup before starting to use Divi Builder with it!"
+msgstr "Опубликуйте всплывающее окно, прежде чем начать использовать с ним Divi Builder!"
+
+#: com/classes/RegisterPostType.php:94
+msgctxt "add new on admin bar"
+msgid "Popup"
+msgstr "Popup"
+
+#: com/classes/RegisterPostType.php:100
+msgid "All Popups"
+msgstr "Все всплывающие окна"
+
+#: com/classes/RegisterPostType.php:102
+msgid "Parent Popups:"
+msgstr "Родительские всплывающие окна:"
+
+#: com/classes/RegisterPostType.php:103
+msgid "No popups found."
+msgstr "Всплывающие окна не найдены."
+
+#: com/classes/RegisterPostType.php:104
+msgid "No popups found in Trash."
+msgstr "Всплывающие окна не найдены в корзине."
+
+#: com/classes/popups/SGPopup.php:1551 com/classes/RegisterPostType.php:209
+msgid "Popup class does not exist"
+msgstr "Класс всплывающего окна не существует"
+
+#: com/config/dataConfig.php:38
+msgid "Select rule"
+msgstr "Выберите правило"
+
+#: com/classes/Ajax.php:732
+msgid "Congrats! You have already 1 subscriber!"
+msgstr "Поздравляю! У вас уже есть 1 подписчик!"
+
+#: com/config/dataConfig.php:248
+msgid "On Hover"
+msgstr "При наведении"
+
+#: com/config/dataConfig.php:341 com/config/dataConfig.php:348
+msgid "Add the CSS class name of your HTML element which will trigger this popup after click."
+msgstr "Добавьте имя класса CSS вашего HTML-элемента, который вызовет это всплывающее окно после щелчка."
+
+#: com/config/dataConfig.php:361 com/config/dataConfig.php:374
+msgid "Add the following CSS class into your HTML element."
+msgstr "Добавьте следующий класс CSS в свой HTML-элемент."
+
+#: com/config/dataConfig.php:508
+msgid "Advanced Closing"
+msgstr "Расширенное закрытие"
+
+#: com/config/dataConfig.php:516 public/views/conditionsView.php:44
+msgid "Advanced Targeting"
+msgstr "Расширенный таргетинг"
+
+#: com/config/dataConfig.php:831
+msgid "After how many seconds the popup should close."
+msgstr "Через сколько секунд всплывающее окно должно закрыться."
+
+#: com/config/dataConfig.php:524
+msgid "Age Restriction"
+msgstr "Ограничение по возрасту"
+
+#: com/config/dataConfig.php:396
+msgid "This is info"
+msgstr "Это информация"
+
+#: com/helpers/AdminHelper.php:947
+msgid "Unsubscription"
+msgstr "Отписка"
+
+#: com/helpers/AdminHelper.php:772
+msgid "A lot of changes and improvements have been made."
+msgstr "Внесено много изменений и улучшений."
+
+#: com/config/dataConfig.php:965
+msgid "Accept Terms"
+msgstr "Принять условия"
+
+#: com/config/dataConfig.php:467
+msgid "Allow or Disallow popup showing for the selected conditions."
+msgstr "Разрешить или запретить показ всплывающих окон для выбранных условий."
+
+#: com/config/dataConfig.php:108
+msgid "Allow or Disallow popup showing for the selected rule."
+msgstr "Разрешить или запретить показ всплывающих окон для выбранного правила."
+
+#: com/config/dataConfig.php:755
+msgid "Behaviors"
+msgstr "Поведения"
+
+#: com/config/dataConfig.php:758
+msgid "Close current popup"
+msgstr "Закрыть текущее всплывающее окно"
+
+#: com/config/dataConfig.php:750
+msgid "Contact Form 7 submission"
+msgstr "Отправка Contact Form 7"
+
+#: com/config/dataConfig.php:879
+msgid "Copied to Clipboard!"
+msgstr "Скопировано в буфер обмена!"
+
+#: com/config/dataConfig.php:309
+msgid "default custom delay will be used"
+msgstr "будет использоваться пользовательская задержка по умолчанию"
+
+#: com/helpers/AdminHelper.php:695 com/helpers/AdminHelper.php:778
+msgid "Don't show again"
+msgstr "Больше не показывать"
+
+#: com/config/dataConfig.php:564
+msgid "EDD"
+msgstr "EDD"
+
+#: com/config/dataConfig.php:933
+msgid "Email *"
+msgstr "Email *"
+
+#: com/config/dataConfig.php:806
+msgid "Enter the URL of the page should be redirected to."
+msgstr "Введите URL-адрес страницы, на которую следует перенаправить."
+
+#: com/config/dataConfig.php:783
+msgid "Event"
+msgstr "Событие"
+
+#: com/config/dataConfig.php:572
+msgid "Exit Intent"
+msgstr "Намерение выхода"
+
+#: com/config/dataConfig.php:1008
+msgid "Exit intent"
+msgstr "Намерение выхода"
+
+#: com/classes/Actions.php:316 com/config/dataConfig.php:958
+msgid "Please enter a valid email address"
+msgstr "Введите действительный адрес электронной почты"
+
+#: com/config/dataConfig.php:676
+msgid "Scheduling"
+msgstr "Расписание"
+
+#: com/config/dataConfig.php:652
+msgid "Recent Sales"
+msgstr "Последние продажи"
+
+#: com/config/dataConfig.php:668
+msgid "Restriction"
+msgstr "Ограничение"
+
+#: com/config/dataConfig.php:754
+msgid "Select behavior"
+msgstr "Выберите поведение"
+
+#: com/config/dataConfig.php:748 public/views/mediaButton.php:39
+msgid "Select event"
+msgstr "Выберите событие"
+
+#: com/config/dataConfig.php:249 com/config/dataConfig.php:604
+msgid "Inactivity"
+msgstr "Бездействие"
+
+#: com/config/dataConfig.php:357 com/config/dataConfig.php:370
+msgid "Please save popup to generate class name."
+msgstr "Сохраните всплывающее окно для создания названия класса."
+
+#: com/helpers/AdminHelper.php:686
+msgid "Popup Builder plugin has been successfully updated"
+msgstr "Плагин Popup Builder успешно обновлен"
+
+#: com/helpers/AdminHelper.php:771
+msgid "Popup Builder plugin has been updated to the new version 3."
+msgstr "Плагин Popup Builder обновлен до новой версии 3."
+
+#: com/config/dataConfig.php:818 public/views/htmlCustomButtonElement.php:177
+#: public/views/mediaButton.php:30 public/views/options/subscription.php:309
+msgid "Select popup"
+msgstr "Выберите всплывающее окно"
+
+#: com/config/dataConfig.php:305
+msgid "Select the condition for the current event."
+msgstr "Выберите условие для текущего события."
+
+#: com/config/dataConfig.php:749
+msgid "Special events"
+msgstr "Специальные события"
+
+#: com/config/dataConfig.php:700
+msgid "Subscription Plus"
+msgstr "Подписка Плюс"
+
+#: com/helpers/AdminHelper.php:687
+msgid "The following extensions need to be updated manually"
+msgstr "Следующие расширения необходимо обновить вручную"
+
+#: com/config/dataConfig.php:960
+msgid "You have successfully subscribed to the newsletter"
+msgstr "Вы успешно подписались на рассылку"
+
+#: com/config/dataConfig.php:385
+msgid "If this option is enabled the same popup will open up after every X seconds you have defined (after closing it)."
+msgstr "Если эта опция включена, одно и то же всплывающее окно будет открываться через каждые заданные вами X секунд (после его закрытия)."
+
+#: com/config/dataConfig.php:757
+msgid "Open another popup"
+msgstr "Открыть другое всплывающее окно"
+
+#: com/config/dataConfig.php:134
+msgid "Select the pages on your site where the specific popup will be shown."
+msgstr "Выберите страницы на вашем сайте, на которых будет отображаться конкретное всплывающее окно."
+
+#: com/config/dataConfig.php:819
+msgid "Select the popup that should be opened."
+msgstr "Выберите всплывающее окно, которое должно быть открыто."
+
+#: com/config/dataConfig.php:163
+msgid "Select the post categories on which the popup should be shown."
+msgstr "Выберите рубрики записи, в которых должно отображаться всплывающее окно."
+
+#: com/config/dataConfig.php:784
+msgid "Select the special event you want to catch."
+msgstr "Выберите специальное событие, на которое вы хотите попасть."
+
+#: com/config/dataConfig.php:795
+msgid "Select what should happen after the special event."
+msgstr "Выберите, что должно произойти после специального события."
+
+#: com/config/dataConfig.php:294
+msgid "Select when the popup should appear on the page."
+msgstr "Выберите, когда всплывающее окно должно появиться на странице."
+
+#: com/config/dataConfig.php:121
+msgid "Select your specific posts where the popup should be shown."
+msgstr "Выберите конкретные записи, в которых должно отображаться всплывающее окно."
+
+#: com/config/dataConfig.php:42
+msgid "Selected posts"
+msgstr "Выбранные записи"
+
+#: com/config/dataConfig.php:54
+msgid "Selected tags"
+msgstr "Выбранные метки"
+
+#: com/config/dataConfig.php:206
+msgid "Select the tags on your site for popup showing"
+msgstr "Выберите метки на вашем сайте для показа всплывающих окон"
+
+#: com/config/dataConfig.php:250
+msgid "On Scroll"
+msgstr "При прокрутке"
+
+#: com/config/dataConfig.php:246
+msgid "Set by CSS class"
+msgstr "Устанавливается классом CSS"
+
+#: com/classes/RegisterPostType.php:338 com/classes/RegisterPostType.php:339
+msgid "Extend"
+msgstr "Расширение"
