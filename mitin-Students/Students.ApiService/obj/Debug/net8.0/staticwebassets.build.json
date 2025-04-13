@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qQ3tBORWIcAstK3zi3jG+jdZY35FtV/bxbb+8jX1kKo=",
+  "Source": "Students.ApiService",
+  "BasePath": "_content/Students.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

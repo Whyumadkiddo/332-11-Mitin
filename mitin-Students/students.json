@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "LastName": "[eq",
+    "FirstName": "132",
+    "MiddleName": "312",
+    "Course": "tg",
+    "Group": "432",
+    "BirthDate": "01.01.2002",
+    "Email": "xuy@gmail.com"
+  },
+  {
+    "Id": 2,
+    "LastName": "хер",
+    "FirstName": "анус",
+    "MiddleName": "член",
+    "Course": "123",
+    "Group": "123",
+    "BirthDate": "01.01.2006",
+    "Email": "huy@gmail.com"
+  }
+]
