@@ -1,0 +1,52 @@
+[
+  {
+      "Id": 1,
+      "LastName": "Иванов",
+      "FirstName": "Иван",
+      "MiddleName": "Иванович",
+      "Course": 1,
+      "Group": "Группа 1",
+      "BirthDate": "01.01.2000",
+      "Email": "ivanov@yandex.com"
+  },
+  {
+      "Id": 2,
+      "LastName": "Петров",
+      "FirstName": "Петр",
+      "MiddleName": "Петрович",
+      "Course": 2,
+      "Group": "Группа 2",
+      "BirthDate": "02.02.2001",
+      "Email": "petrov@gmail.com"
+  },
+  {
+      "Id": 3,
+      "LastName": "Сидоров",
+      "FirstName": "Сидор",
+      "MiddleName": "Сидорович",
+      "Course": 3,
+      "Group": "Группа 3",
+      "BirthDate": "03.03.2002",
+      "Email": "sidorov@icloud.com"
+  },
+  {
+      "Id": 4,
+      "LastName": "Алексеев",
+      "FirstName": "Алексей",
+      "MiddleName": "Алексеевич",
+      "Course": 4,
+      "Group": "Группа 4",
+      "BirthDate": "04.04.2003",
+      "Email": "alexeev@yandex.com"
+  },
+  {
+      "Id": 5,
+      "LastName": "Николаев",
+      "FirstName": "Николай",
+      "MiddleName": "Николаевич",
+      "Course": 5,
+      "Group": "Группа 5",
+      "BirthDate": "05.05.2004",
+      "Email": "nikolaev@gmail.com"
+  }
+]
